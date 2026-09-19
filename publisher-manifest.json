@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "732306c9b9e3aa97998f7e27",
+  "owner": "uuasxs",
+  "repo": "page-24a4c856618595659105ca7e",
+  "title": "翼游(Yiyo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "24a4c856618595659105ca7e",
+      "a": "翼游(Yiyo)",
+      "b": "clash verge免费节点订阅",
+      "entity": "翼游(Yiyo)",
+      "brand": "翼游(Yiyo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "61ba3aea2154a5645498500fdbe17802329f2ecb844f00288e1b6ecc9813dafc",
+      "content": {
+        "primary_entity": "翼游(Yiyo)",
+        "keyword1": "翼游(Yiyo)",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_DESCRIPTION": "，翼游(Yiyo)专注为跨境访问提供稳定加速服务，覆盖基础版、旗舰版与团队版三档套餐，支持多设备同时在线与订阅制管理。用户可根据流量需求与设备数量选择合适方案，在常用客户端导入订阅地址后即可按需切换线路，兼顾流媒体播放与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "翼游(Yiyo)多设备加速方案",
+          "AI_HERO_INTRO": "翼游(Yiyo)提供多档海外加速套餐，适配不同流量与设备规模。从每月百GB到千GB流量，从三台到二十台设备，订阅后可在常用客户端配置使用，满足日常浏览、流媒体与游戏加速需求。",
+          "AI_VISUAL_TITLE": "翼游(Yiyo)加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "订阅制灵活配置",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "围绕套餐规模、设备支持与订阅周期展开，帮助快速定位合适方案。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按流量需求选择。",
+          "AI_FEATURE_TITLE_2": "设备支持灵活",
+          "AI_FEATURE_TEXT_2": "从3台到20台设备不等，按使用人数与终端数量匹配。",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_FEATURE_TEXT_3": "月付与年付两种方式，年付享更优价格，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版覆盖主流需求，团队版面向多人多设备场景。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "选定套餐后，按设备类型完成客户端配置与订阅导入。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据流量与设备数量在基础版、旗舰版、团队版中选定方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与系统是否在对应客户端支持范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅地址，按说明完成设置即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "即刻开始",
+          "AI_CLOSING_TEXT": "选定套餐并按客户端文档完成订阅配置，体验翼游(Yiyo)加速服务。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备在线，适合日常浏览与基础流媒体解锁；旗舰版每月300GB流量，支持5台设备，解锁全节点原生流媒体并含IPLC专线优化。",
+          "AI_FAQ_ANSWER_2": "按年付更划算，基础版仅需¥150/年，旗舰版¥350/年，团队版¥850/年，平均月费低于按月购买。",
+          "AI_FAQ_ANSWER_3": "选择对应系统的客户端，将订阅地址导入配置即可。Windows通常用Clash类客户端，iOS可用Shadowrocket等，Android可选Clash for Android等，路由器按固件安装相应插件。",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。多设备同时在线时，按所选套餐的设备额度使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版含IPLC专线游戏加速优化，适合对延迟敏感的场景；团队版提供VIP专属高带宽节点与企业定制路由，适合多设备高带宽需求。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的流量与设备区别是什么？",
+          "AI_FAQ_QUESTION_2": "按年付比按月付便宜多少？",
+          "AI_FAQ_QUESTION_3": "不同设备上用什么客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "一个账号最多能在几台设备同时使用？",
+          "AI_FAQ_QUESTION_5": "游戏加速和流媒体解锁选哪个版本更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "39ec1ce8d2099c5a5c9bb2f9f71b0473bc32c4ad3c99c1fe26eb483eae0d46d2",
+    "sitemap.xml": "e76e4bd1c0cf982c48a77494290386f06cc166cd9c5a0409598ffc19c38fae3e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ee6349d2f08584ba5d8bf1e2d43a4b5ca4113fcc3404c2aefe4d141fec822917"
+}
